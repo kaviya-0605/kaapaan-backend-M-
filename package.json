@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kaviya-0605/kaapaan-backend-M-/issues"
   },
-  "homepage": "https://github.com/kaviya-0605/kaapaan-backend-M-#readme"
+  "homepage": "https://github.com/kaviya-0605/kaapaan-backend-M-#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
